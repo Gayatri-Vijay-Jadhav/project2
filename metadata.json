@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduAI - Advanced E-Learning Platform",
+  "description": "A comprehensive e-learning platform featuring an AI-driven course recommendation system, student and admin dashboards, and full project documentation for academic submission.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
